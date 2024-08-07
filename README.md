@@ -1,5 +1,9 @@
 # vue-test-desafio-willson
 
+# inciar test comando
+
+     npm run test:unit
+
 ## Project setup
 ```
 npm install
